@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 I'm a computer science student at university of Tehran.
+🧠 I am a neuroscience research assistant at CNRL (Computational Neuroscience Research Laboratory) and I work on vision tasks using spiking neural network.
+🤖 I had experience of working in a Motor vehivle manufacturing company as a machine learning developer and I worked on vision tasks for self-driving cars.
+🏊‍♂️🎵 I love music and swimming
+🌐 check out my academic website: https://amir-ndr.github.io/
